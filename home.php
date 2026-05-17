@@ -11,7 +11,7 @@
 	    <div id="home"><a href="index.php"> </a></div>
 	    <br>
 	    <div class="Leiste">
-            <a href="index.php">Home </a>||
+            <a href="home.php">Home </a>||
             <a href="POSTURA.php">Postura </a>||
             <a href="GEBURTSTAG.php">Geburtstag </a>||
             <a href="form.html">Formular </a>
